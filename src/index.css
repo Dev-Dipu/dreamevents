@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: dmsans;
+    src: url('/fonts/dmsans.ttf');
+}
