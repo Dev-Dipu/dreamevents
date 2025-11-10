@@ -4,3 +4,8 @@
     font-family: dmsans;
     src: url('/fonts/dmsans.ttf');
 }
+
+@font-face {
+    font-family: eight;
+    src: url('/fonts/eightycomeback.OTF');
+}
