@@ -24,10 +24,10 @@ const App = () => {
             <ScrollMaskReveal
                 videoSrc="/videos/dreamvid.mp4"
                 maskSvg="/images/dreamevents.svg"
-                initialMaskSize={0.8}
-                targetMaskSize={40}
+                initialMaskSize={0.85}
+                targetMaskSize={60}
                 easing={0.4}
-                scrollHeight="480vh"
+                scrollHeight="600vh"
                 backgroundColor="#f4f4f4"
             />
             <DreamParallax />
